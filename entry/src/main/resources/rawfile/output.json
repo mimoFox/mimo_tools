@@ -1,0 +1,1062 @@
+[
+  {
+    "chinese": "我",
+    "english": "I",
+    "phonetic": "/aɪ/"
+  },
+  {
+    "chinese": "喜欢",
+    "english": "like",
+    "phonetic": "/laɪk/"
+  },
+  {
+    "chinese": "我喜欢",
+    "english": "I like",
+    "phonetic": "/aɪ/ /laɪk/"
+  },
+  {
+    "chinese": "食物",
+    "english": "the food",
+    "phonetic": "/ðə/ /fud/"
+  },
+  {
+    "chinese": "我喜欢这个食物",
+    "english": "I like the food",
+    "phonetic": "/aɪ/ /laɪk//ðə/ /fud/"
+  },
+  {
+    "chinese": "不",
+    "english": "don't",
+    "phonetic": "/dont/"
+  },
+  {
+    "chinese": "喜欢",
+    "english": "like",
+    "phonetic": "/laɪk/"
+  },
+  {
+    "chinese": "不喜欢",
+    "english": "don't like",
+    "phonetic": "/dont/ /laɪk/"
+  },
+  {
+    "chinese": "我不喜欢这个食物",
+    "english": "I don't like the food",
+    "phonetic": "/aɪ/ /dont/ /laɪk//ðə/ /fud/"
+  },
+  {
+    "chinese": "做",
+    "english": "to do",
+    "phonetic": "/tə/ /du/"
+  },
+  {
+    "chinese": "它；这件事情",
+    "english": "it",
+    "phonetic": "/ɪt/"
+  },
+  {
+    "chinese": "做这件事情",
+    "english": "to do it",
+    "phonetic": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "我喜欢",
+    "english": "I like",
+    "phonetic": "/aɪ/ /laɪk/"
+  },
+  {
+    "chinese": "我喜欢做这件事情",
+    "english": "I like to do it",
+    "phonetic": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "不喜欢",
+    "english": "don't like",
+    "phonetic": "/dont/ /laɪk/"
+  },
+  {
+    "chinese": "我不喜欢做这件事情",
+    "english": "I don't like to do it",
+    "phonetic": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "phonetic": "/naʊ/"
+  },
+  {
+    "chinese": "我喜欢现在做这件事情",
+    "english": "I like to do it now",
+    "phonetic": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "chinese": "我不喜欢现在做这件事情",
+    "english": "I don't like to do it now",
+    "phonetic": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "chinese": "这里",
+    "english": "here",
+    "phonetic": "/hɪr/"
+  },
+  {
+    "chinese": "在这里",
+    "english": "to be here",
+    "phonetic": "/tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "我喜欢",
+    "english": "I like",
+    "phonetic": "/aɪ/ /laɪk/"
+  },
+  {
+    "chinese": "我喜欢在这里",
+    "english": "I like to be here",
+    "phonetic": "/aɪ/ /laɪk/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "不喜欢",
+    "english": "don't like",
+    "phonetic": "/dont/ /laɪk/"
+  },
+  {
+    "chinese": "我不喜欢在这里",
+    "english": "I don't like to be here",
+    "phonetic": "/aɪ/ /dont/ /laɪk/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "phonetic": "/naʊ/"
+  },
+  {
+    "chinese": "我不喜欢现在在这里",
+    "english": "I don't like to be here now",
+    "phonetic": "/aɪ/ /dont/ /laɪk/ /tə/ /bi/ /hɪr/ /naʊ/"
+  },
+  {
+    "chinese": "想要",
+    "english": "want",
+    "phonetic": "/wɑnt/"
+  },
+  {
+    "chinese": "做这件事情",
+    "english": "to do it",
+    "phonetic": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "我想要做这件事情",
+    "english": "I want to do it",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "不想",
+    "english": "don ́t want",
+    "phonetic": "/dont/ /wɑnt/"
+  },
+  {
+    "chinese": "我不想做这件事情",
+    "english": "I don't want to do it",
+    "phonetic": "/aɪ/ /dont/ /wɑnt/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "今天",
+    "english": "today",
+    "phonetic": "/tə'de/"
+  },
+  {
+    "chinese": "我今天想要做这件事情",
+    "english": "I want to do it today",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "chinese": "我今天不想做这件事情",
+    "english": "I don't want to do it today",
+    "phonetic": "/aɪ/ /dont/ /wɑnt/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "phonetic": "/naʊ/"
+  },
+  {
+    "chinese": "我现在不想做这件事情",
+    "english": "I don't want to do it now",
+    "phonetic": "/aɪ/ /dont/ /wɑnt/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "chinese": "吃",
+    "english": "to eat",
+    "phonetic": "/tə/ /it/"
+  },
+  {
+    "chinese": "食物",
+    "english": "the food",
+    "phonetic": "/ðə/ /fud/"
+  },
+  {
+    "chinese": "吃这个食物",
+    "english": "to eat the food",
+    "phonetic": "/tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "chinese": "想要",
+    "english": "want",
+    "phonetic": "/wɑnt/"
+  },
+  {
+    "chinese": "我想要吃这个食物",
+    "english": "I want to eat the food",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "phonetic": "/naʊ/"
+  },
+  {
+    "chinese": "我现在想要吃这个食物",
+    "english": "I want to eat the food now",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+  },
+  {
+    "chinese": "不想",
+    "english": "don ́t want",
+    "phonetic": "/dont/ /wɑnt/"
+  },
+  {
+    "chinese": "我现在不想吃这个食物",
+    "english": "I don't want to eat the food now",
+    "phonetic": "/aɪ/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+  },
+  {
+    "chinese": "这里",
+    "english": "here",
+    "phonetic": "/hɪr/"
+  },
+  {
+    "chinese": "在这里",
+    "english": "to be here",
+    "phonetic": "/tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "我想要在这里",
+    "english": "I want to be here",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "我不想在这里",
+    "english": "I don't want to be here",
+    "phonetic": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "每天",
+    "english": "every day",
+    "phonetic": "/'ɛvri/ /de/"
+  },
+  {
+    "chinese": "我想要每天在这里",
+    "english": "I want to be here every day ",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "我不想每天在这里",
+    "english": "I don't want to be here every day",
+    "phonetic": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "一整天",
+    "english": "all the day",
+    "phonetic": "/ɔl/ /ðə/ /de/"
+  },
+  {
+    "chinese": "我不想一整天在这里",
+    "english": "I don't want to be here all the day",
+    "phonetic": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /ɔl/ /ðə/ /de/"
+  },
+  {
+    "chinese": "需要",
+    "english": "need",
+    "phonetic": "/nid/"
+  },
+  {
+    "chinese": "在这里",
+    "english": "to be here",
+    "phonetic": "/tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "我需要在这里",
+    "english": "I need to be here",
+    "phonetic": "/aɪ/ /nid/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "我不需要在这里",
+    "english": "I don't need to be here",
+    "phonetic": "/aɪ/ /dont/ /nid/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "每天",
+    "english": "every day",
+    "phonetic": "/'ɛvri/ /de/"
+  },
+  {
+    "chinese": "我需要每天在这里",
+    "english": "I need to be here every day",
+    "phonetic": "/aɪ/ /nid/ /tə/ /bi/ /hɪr/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "我不需要每天在这里",
+    "english": "I don't need to be here every day",
+    "phonetic": "/aɪ/ /dont/ /nid/ /tə/ /bi/ /hɪr/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "吃这个食物",
+    "english": "to eat the food",
+    "phonetic": "/tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "chinese": "我需要吃这个食物",
+    "english": "I need to eat the food",
+    "phonetic": "/aɪ/ /nid/ /tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "phonetic": "/naʊ/"
+  },
+  {
+    "chinese": "我现在需要吃这个食物",
+    "english": "I need to eat the food now",
+    "phonetic": "/aɪ/ /nid/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+  },
+  {
+    "chinese": "我现在不需要吃这个食物",
+    "english": "I don't need to eat the food now",
+    "phonetic": "/aɪ/ /dont/ /nid/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+  },
+  {
+    "chinese": "它；这件事情",
+    "english": "it",
+    "phonetic": "/ɪt/"
+  },
+  {
+    "chinese": "做",
+    "english": "to do",
+    "phonetic": "/tə/ /du/"
+  },
+  {
+    "chinese": "做这件事情",
+    "english": "to do it",
+    "phonetic": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "我需要做这件事情",
+    "english": "I need to do it",
+    "phonetic": "/aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "今天",
+    "english": "today",
+    "phonetic": "/tə'de/"
+  },
+  {
+    "chinese": "我今天需要做这件事情",
+    "english": "I need to do it today",
+    "phonetic": "/aɪ/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "chinese": "我今天不需要做这件事情",
+    "english": "I don't need to do it today",
+    "phonetic": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "chinese": "必须做",
+    "english": "have to do",
+    "phonetic": "/hæv/ /tə/ /du/"
+  },
+  {
+    "chinese": "我必须做这件事情",
+    "english": "I have to do it",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "我今天必须做这件事情",
+    "english": "I have to do it today",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "chinese": "我现在必须做这件事情",
+    "english": "I have to do it now",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "chinese": "不必做",
+    "english": "don't have to do",
+    "phonetic": "/dont/ /hæv/ /tə/ /du/"
+  },
+  {
+    "chinese": "我不必做这件事情",
+    "english": "I don't have to do it",
+    "phonetic": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "我现在不必做这件事情",
+    "english": "I don't have to do it now",
+    "phonetic": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "chinese": "每天",
+    "english": "every day",
+    "phonetic": "/'ɛvri/ /de/"
+  },
+  {
+    "chinese": "我不必每天做这件事情",
+    "english": "I don't have to do it every day",
+    "phonetic": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "一整天",
+    "english": "all the day",
+    "phonetic": "/ɔl/ /ðə/ /de/"
+  },
+  {
+    "chinese": "我不必一整天做这件事情",
+    "english": "I don't have to do it all the day",
+    "phonetic": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /ɔl/ /ðə/ /de/"
+  },
+  {
+    "chinese": "吃这个食物",
+    "english": "to eat the food",
+    "phonetic": "/tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "chinese": "我必须吃这个食物",
+    "english": "I have to eat the food",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "chinese": "我不必吃这个食物",
+    "english": "I don't have to eat the food",
+    "phonetic": "/aɪ/ /dont/ /hæv/ /tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "chinese": "今天",
+    "english": "today",
+    "phonetic": "/tə'de/"
+  },
+  {
+    "chinese": "我今天不必吃这个食物",
+    "english": "I don't have to eat the food today",
+    "phonetic": "/aɪ/ /dont/ /hæv/ /tə/ /it/ /ðə/ /fud/    /tə'de/"
+  },
+  {
+    "chinese": "明天",
+    "english": "tomorrow",
+    "phonetic": "/tə'mɔro/"
+  },
+  {
+    "chinese": "我明天必须吃这个食物",
+    "english": "I have to eat the food tomorrow",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /it/ /ðə/ /fud/ /tə'mɔro/"
+  },
+  {
+    "chinese": "在这里",
+    "english": "to be here",
+    "phonetic": "/tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "我必须在这里",
+    "english": "I have to be here",
+    "phonetic": "/aɪ/ /hæv//tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "我今天必须在这里",
+    "english": "I have to be here today",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /bi/ /hɪr/ /tə'de/"
+  },
+  {
+    "chinese": "做这件事情",
+    "english": "to do it",
+    "phonetic": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "我喜欢",
+    "english": "I like",
+    "phonetic": "/aɪ/ /laɪk/"
+  },
+  {
+    "chinese": "我喜欢做这件事情",
+    "english": "I like to do it",
+    "phonetic": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "我想要",
+    "english": "I want",
+    "phonetic": "/aɪ/ /wɑnt/"
+  },
+  {
+    "chinese": "我想要做这件事情",
+    "english": "I want to do it",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "我需要",
+    "english": "I need",
+    "phonetic": "/aɪ/ /nid/"
+  },
+  {
+    "chinese": "我需要做这件事情",
+    "english": "I need to do it",
+    "phonetic": "/aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "我必须做这件事情",
+    "english": "I have to do it",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "知道；认识",
+    "english": "to know",
+    "phonetic": "/tə/ /no/"
+  },
+  {
+    "chinese": "你",
+    "english": "you",
+    "phonetic": "/ju/"
+  },
+  {
+    "chinese": "认识你",
+    "english": "to know you",
+    "phonetic": "/tə/ /no/ /ju/"
+  },
+  {
+    "chinese": "我想要认识你",
+    "english": "I want to know you",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /no/ /ju/"
+  },
+  {
+    "chinese": "尽快",
+    "english": "soon",
+    "phonetic": "/sun/"
+  },
+  {
+    "chinese": "我想要尽快认识你",
+    "english": "I want to know you soon",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /no/ /ju/ /sun/"
+  },
+  {
+    "chinese": "见到",
+    "english": "to see",
+    "phonetic": "/tə/ /si/"
+  },
+  {
+    "chinese": "见到你",
+    "english": "to see you ",
+    "phonetic": "/tə/ /si/ /ju/"
+  },
+  {
+    "chinese": "我必须见到你",
+    "english": "I have to see you ",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /si/ /ju/"
+  },
+  {
+    "chinese": "今晚",
+    "english": "tonight",
+    "phonetic": "/tə'naɪt/"
+  },
+  {
+    "chinese": "我今晚必须见到你",
+    "english": "I have to see you tonight",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /si/ /ju/ /tə'naɪt/"
+  },
+  {
+    "chinese": "告诉",
+    "english": "to tell",
+    "phonetic": "/tə/ /tɛl/"
+  },
+  {
+    "chinese": "你",
+    "english": "you",
+    "phonetic": "/ju/"
+  },
+  {
+    "chinese": "告诉你",
+    "english": "to tell you ",
+    "phonetic": "/tə/ /tɛl/ /ju/"
+  },
+  {
+    "chinese": "我需要告诉你",
+    "english": "I need to tell you ",
+    "phonetic": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/"
+  },
+  {
+    "chinese": "某物；某些事情",
+    "english": "something",
+    "phonetic": "/'sʌmθɪŋ/"
+  },
+  {
+    "chinese": "重要的",
+    "english": "important",
+    "phonetic": "/ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "重要的某些事情",
+    "english": "something important",
+    "phonetic": "/'sʌmθɪŋ//ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "我需要告诉你某些事情",
+    "english": "I need to tell you something",
+    "phonetic": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/"
+  },
+  {
+    "chinese": "我需要告诉你重要的某些事情",
+    "english": "I need to tell you something",
+    "phonetic": "important"
+  },
+  {
+    "chinese": "它；这件事情",
+    "english": "it",
+    "phonetic": "/ɪt/"
+  },
+  {
+    "chinese": "它是重要的",
+    "english": "It is important",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "非常",
+    "english": "very",
+    "phonetic": "/ˈvɛri/"
+  },
+  {
+    "chinese": "它是非常重要的",
+    "english": "It is very important",
+    "phonetic": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "我",
+    "english": "me",
+    "phonetic": "/mi/"
+  },
+  {
+    "chinese": "对我来说",
+    "english": "for me",
+    "phonetic": "/fɝ/ /mi/"
+  },
+  {
+    "chinese": "对我来说它是重要的",
+    "english": "It is important for me",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "chinese": "对我来说它是非常重要的",
+    "english": "It is very important for me",
+    "phonetic": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "chinese": "做这件事情",
+    "english": "to do it",
+    "phonetic": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "做这件事情（它）是重要的",
+    "english": "It is important to do it",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "在这里；来到这里",
+    "english": "to be here",
+    "phonetic": "/tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "来到这里（它）是重要的",
+    "english": "It is important to be here",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "吃这个食物",
+    "english": "to eat the food",
+    "phonetic": "/tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "chinese": "吃这个食物（它）是重要的",
+    "english": "It is important to eat the food",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "chinese": "不可能的",
+    "english": "impossible",
+    "phonetic": "/ɪm'pɑsəbl/"
+  },
+  {
+    "chinese": "它是不可能的",
+    "english": "It is impossible",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+  },
+  {
+    "chinese": "做这件事情",
+    "english": "to do it",
+    "phonetic": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "做这件事情（它）是不可能的",
+    "english": "It is impossible to do it",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "现在做这件事情（它）是不可能的",
+    "english": "It is impossible to do it now",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "chinese": "对我来说",
+    "english": "for me",
+    "phonetic": "/fɝ/ /mi/"
+  },
+  {
+    "chinese": "对我来说它是不可能的",
+    "english": "It is impossible for me",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /fɝ/ /mi/"
+  },
+  {
+    "chinese": "好的",
+    "english": "good",
+    "phonetic": "/ɡʊd/"
+  },
+  {
+    "chinese": "它是好的",
+    "english": "It is good",
+    "phonetic": "/ɪt/ /ɪz/ /ɡʊd/"
+  },
+  {
+    "chinese": "在这里；来到这里",
+    "english": "to be here",
+    "phonetic": "/tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "来到这里（它）是好的",
+    "english": "It is good to be here",
+    "phonetic": "/ɪt/ /ɪz/ /ɡʊd/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "来到这里（它）是非常好的",
+    "english": "It is very good to be here",
+    "phonetic": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "见到你",
+    "english": "to see you",
+    "phonetic": "/tə/ /si/ /ju/"
+  },
+  {
+    "chinese": "见到你（它）是非常好的",
+    "english": "It is very good to see you",
+    "phonetic": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /si/ /ju/"
+  },
+  {
+    "chinese": "每天",
+    "english": "every day",
+    "phonetic": "/'ɛvri/ /de/"
+  },
+  {
+    "chinese": "每天见到你（它）是非常好的",
+    "english": "It is very good to see you every day",
+    "phonetic": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /si/ /ju/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "可能的",
+    "english": "possible",
+    "phonetic": "/'pɑsəbl/"
+  },
+  {
+    "chinese": "它是可能的",
+    "english": "It is possible",
+    "phonetic": "/ɪt/ /ɪz/ /'pɑsəbl/"
+  },
+  {
+    "chinese": "见到你",
+    "english": "to see you",
+    "phonetic": "/tə/ /si/ /ju/"
+  },
+  {
+    "chinese": "见到你（它）是可能的",
+    "english": "It is possible to see you",
+    "phonetic": "/ɪt/ /ɪz/ /'pɑsəbl/ /tə/ /si/ /ju/"
+  },
+  {
+    "chinese": "每天",
+    "english": "every day",
+    "phonetic": "/'ɛvri/ /de/"
+  },
+  {
+    "chinese": "每天见到你（它）是可能的",
+    "english": "It is possible to see you every day",
+    "phonetic": "/ɪt/ /ɪz/ /'pɑsəbl/ /tə/ /si/ /ju/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "不可能的",
+    "english": "impossible",
+    "phonetic": "/ɪm'pɑsəbl/"
+  },
+  {
+    "chinese": "每天见到你（它）是不可能的",
+    "english": "It is impossible to see you every day",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /si/ /ju/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "知道；认识",
+    "english": "to know",
+    "phonetic": "/tə/ /no/"
+  },
+  {
+    "chinese": "我想要知道",
+    "english": "I want to know",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "chinese": "是否",
+    "english": "if",
+    "phonetic": "/ɪf/"
+  },
+  {
+    "chinese": "我想要知道是否它是可能的",
+    "english": "I want to know if it is possible",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /'pɑsəbl/"
+  },
+  {
+    "chinese": "它是重要的",
+    "english": "It is important",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "我想要知道是否它是重要的",
+    "english": "I want to know if it is important",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "对我来说",
+    "english": "for me",
+    "phonetic": "/fɝ/ /mi/"
+  },
+  {
+    "chinese": "对我来说它是重要的",
+    "english": "It is important for me",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "chinese": "必须做",
+    "english": "have to do",
+    "phonetic": "/hæv/ /tə/ /du/"
+  },
+  {
+    "chinese": "我必须做这件事情",
+    "english": "I have to do it",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "我今天必须做这件事情",
+    "english": "I have to do it today",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "chinese": "所以",
+    "english": "so",
+    "phonetic": "/so/"
+  },
+  {
+    "chinese": "每天",
+    "english": "every day",
+    "phonetic": "/'ɛvri/ /de/"
+  },
+  {
+    "chinese": "非常",
+    "english": "very",
+    "phonetic": "/ˈvɛri/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "phonetic": "/naʊ/"
+  },
+  {
+    "chinese": "不重要的",
+    "english": "not important",
+    "phonetic": "/nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "它是不重要的",
+    "english": "It is not important",
+    "phonetic": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "它是不重要的对我来说",
+    "english": "It is not important for me",
+    "phonetic": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "chinese": "不必做",
+    "english": "don't have to do",
+    "phonetic": "/dont/ /hæv/ /tə/ /du/"
+  },
+  {
+    "chinese": "我不必做这件事情",
+    "english": "I don't have to do it",
+    "phonetic": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "phonetic": "/naʊ/"
+  },
+  {
+    "chinese": "我现在不必做这件事情",
+    "english": "I don't have to do it now",
+    "phonetic": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "chinese": "所以",
+    "english": "so",
+    "phonetic": "/so/"
+  },
+  {
+    "chinese": "我喜欢吃这个食物",
+    "english": "I like to eat the food",
+    "phonetic": "/aɪ/ /laɪk/ /tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "chinese": "我想要今天做这件事",
+    "english": "I want to do it today",
+    "phonetic": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "chinese": "我需要告诉你重要的某些事情",
+    "english": "I need to tell you something important",
+    "phonetic": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "我必须尽快认识你",
+    "english": "I have to know you soon",
+    "phonetic": "/aɪ/ /hæv/ /tə/ /no/ /ju/ /sun/"
+  },
+  {
+    "chinese": "来到这里（它）是好的",
+    "english": "It is good to be here",
+    "phonetic": "/ɪt/ /ɪz/ /ɡʊd/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "它是重要的对我来说",
+    "english": "It is important for me",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "chinese": "现在做这件事情（它）是不可能的",
+    "english": "It is impossible to do it now",
+    "phonetic": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "chinese": "喜欢做",
+    "english": "like to do",
+    "phonetic": "/laɪk/ /tə/ /du/"
+  },
+  {
+    "chinese": "需要做",
+    "english": "need to do",
+    "phonetic": "/nid/ /tə/ /du/"
+  },
+  {
+    "chinese": "想要做",
+    "english": "want to do",
+    "phonetic": "/wɑnt/ /tə/ /du/"
+  },
+  {
+    "chinese": "必须做",
+    "english": "have to do",
+    "phonetic": "/hæv/ /tə/ /du/"
+  },
+  {
+    "chinese": "吃",
+    "english": "to eat",
+    "phonetic": "/tə/ /it/"
+  },
+  {
+    "chinese": "知道；认识",
+    "english": "to know",
+    "phonetic": "/tə/ /no/"
+  },
+  {
+    "chinese": "在这里",
+    "english": "to be here",
+    "phonetic": "/tə/ /bi/ /hɪr/"
+  },
+  {
+    "chinese": "见到",
+    "english": "to see",
+    "phonetic": "/tə/ /si/"
+  },
+  {
+    "chinese": "告诉",
+    "english": "to tell",
+    "phonetic": "/tə/ /tɛl/"
+  },
+  {
+    "chinese": "你",
+    "english": "you",
+    "phonetic": "/ju/"
+  },
+  {
+    "chinese": "我",
+    "english": "me",
+    "phonetic": "/mi/"
+  },
+  {
+    "chinese": "某物；某些事情",
+    "english": "something",
+    "phonetic": "/'sʌmθɪŋ/"
+  },
+  {
+    "chinese": "好的",
+    "english": "good",
+    "phonetic": "/ɡʊd/"
+  },
+  {
+    "chinese": "可能的",
+    "english": "possible",
+    "phonetic": "/'pɑsəbl/"
+  },
+  {
+    "chinese": "不可能的",
+    "english": "impossible",
+    "phonetic": "/ɪm'pɑsəbl/"
+  },
+  {
+    "chinese": "重要的",
+    "english": "important",
+    "phonetic": "/ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "食物",
+    "english": "the food",
+    "phonetic": "/ðə/ /fud/"
+  },
+  {
+    "chinese": "这里",
+    "english": "here",
+    "phonetic": "/hɪr/"
+  },
+  {
+    "chinese": "今天",
+    "english": "today",
+    "phonetic": "/tə'de/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "phonetic": "/naʊ/"
+  },
+  {
+    "chinese": "每天",
+    "english": "every day",
+    "phonetic": "/'ɛvri/ /de/"
+  }
+]

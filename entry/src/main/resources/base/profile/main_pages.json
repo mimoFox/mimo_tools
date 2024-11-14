@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/courses/CourseIndex",
+    "pages/courses/PDFPreview",
+    "pages/notebook/NoteBook",
+    "pages/light/FillLight"
+  ]
+}
