@@ -85,6 +85,18 @@ struct Index {
             url: 'pages/light/FillLight'
           })
         }
+
+        GridItem() {
+          Card({
+            img: $r('app.media.lights'),
+            title: '音乐',
+            bgColor_one: '#fffc89e3',
+            bgColor_two: '#fffc52d7',
+            fillColor: '#ffffd300',
+            url: 'pages/light/FillLight'
+          })
+        }
+
       }
       .columnsTemplate('1fr 1fr 1fr')
       .rowsTemplate('1fr 1fr 1fr 1fr 1fr 1fr')
